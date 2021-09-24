@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there. My name is Ali, I'm a student programming enthusiast and avid gamer who enjoys messing around with the modding space in a variety of games, and dabbling in scripts and tools for usability and modularity!
 
 <!--
 **Frontear/Frontear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
