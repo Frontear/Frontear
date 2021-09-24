@@ -1,5 +1,10 @@
-### Hi there. My name is Ali, I'm a student programming enthusiast and avid gamer who enjoys messing around with the modding space in a variety of games, and dabbling in scripts and tools for usability and modularity!
+### Welcome to my profile 👋
+My name is Ali. I'm a student programming enthusiast and avid gamer who enjoys messing around with the modding space in a variety of games, and dabbling in scripts and tools for usability and modularity!
 
+---
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frontear&show_icons=true&hide_border=true&theme=nord" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Frontear&show_icons=true&hide_border=true&theme=nord" />
 <!--
 **Frontear/Frontear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
