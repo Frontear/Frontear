@@ -1,7 +1,7 @@
 ### Nice to Meet You! 👋
 My name is Ali Rizvi. I'm a 21 year old university student studying Computer Science at Toronto Metropolitan University (formerly Ryerson).
 
-```terminal
+```console
 [alirizvi@github ~]$ myfetch
 OS: NixOS
 Uptime: 21 years
